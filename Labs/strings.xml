@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMICalculatorApp</string>
+    <string name="bmi_values">BMI Values:</string>
+    <string name="department_of_health_and_human_services">Department of Health and Human Services</string>
+    <string name="overweight_between_25_and_29_9">Overweight: between 25 and 29.9</string>
+    <string name="underweight">UnderWeight: less than 18.5</string>
+    <string name="normal">Normal: between 18.5 and 24.9</string>
+    <string name="obese">Obese: 30 or greater</string>
+    <string name="enter_weight_here">Enter Weight here KGs or Pounds</string>
+    <string name="enter_height_here">Enter Height here Inches or Meters</string>
+</resources>
