@@ -1,0 +1,15 @@
+Bolt 2 Corgi 23 10
+Max 1 Chihuahua 38 8
+Chance 12 Hound 42 16
+Buddy 7 Labrador 45 14
+Danger 4 Bulldog 39 11
+Brandy 2 ChowChow 65.3 17
+Whiskey 9 Collie 76 18
+Voldemort 5 Rottweiler 135 22
+Snape 11 Pug 24.5 11
+Dobby 15 Havanese 13 8.5
+Paul 10 Pitbull 40 20
+Skip 5 Basenji 20 16
+Terror 7 BloodHound 94 24
+Shaggy 6 Briard 57 23
+Dolly 12 Dalmation 22 40
